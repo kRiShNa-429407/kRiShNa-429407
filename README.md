@@ -1,9 +1,10 @@
 Hi 👋 My name is Krishna Kaushik
 ================================
+<img align="center" width="400"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 Artificial Intelligence || Machine Learning || Data Science || Pandas || NumPy || Scikit-Learn
 ----------------------------------------------------------------------------------------------
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kk429407@gmail.com](mailto:kk429407@gmail.com)
 * 🧠  I'm learning Data Science & Machine Learning
