@@ -1,34 +1,49 @@
-Hi 👋 My name is Krishna Kaushik
-================================
-<img align="center" width="400"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Krishna Kaushik</h1>
+<h3 align="center">Python Developer || Machine Learning || Data Science</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kRiShNa-429407&label=Profile%20views&color=0e75b6&style=flat" alt="kRiShNa-429407" /> </p>
 
-Artificial Intelligence || Machine Learning || Data Science || Pandas || NumPy || Scikit-Learn
-----------------------------------------------------------------------------------------------
-* 🌍  I'm based in India
-* ✉️  You can contact me at [kk429407@gmail.com](mailto:kk429407@gmail.com)
-* 🧠  I'm learning Data Science & Machine Learning
-* 🤝  I'm open to collaborating on ML projects
-* ⚡  The world of AI is awesome!!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kRiShNa-429407&theme=" alt="kRiShNa-429407" /></a> </p>
 
-<a href="https://www.github.com/kRiShNa-429407" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kRiShNa-429407?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- 🌱 I’m currently learning Deep Learning framework **PyTorch**
+- 💬 Ask me about anything related to **Python, Machine Learning and Data Science**
+- 📫 How to reach me **kk429407@gmail.com**
+- 📝 I regularly write articles on Medium **https://medium.com/me/stories/public**
 
-### Skills
-
-
+<div> <a href="https://www.linkedin.com/in/Krishna Kaushik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/kRiShNa-429407" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:kk429407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://linkedin.com/in/Krishna Kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Krishna Kaushik" height="30" width="40" /></a><a href="https://kaggle.com/krishnaaiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="krishnaaiml" height="30" width="40" /></a><a href="https://medium.com/@Krishna Kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@Krishna Kaushik" height="30" width="40" /></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRiShNa-429407&layout=compact&theme=tokyonight" alt=kRiShNa-429407 />
 
-### Socials
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kRiShNa-429407&show_icons=true&locale=en&theme=cobalt" alt="kRiShNa-429407" /></p>
 
-<p align="left"> <a href="https://www.github.com/kRiShNa-429407" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/krishna-kaushik-1b1377229/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@kk429407" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kRiShNa-429407&theme=radical" alt="kRiShNa-429407" /></p>
 
-### Badges
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/kRiShNa-429407">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kRiShNa-429407&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kRiShNa-429407&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kRiShNa-429407&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kRiShNa-429407&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kRiShNa-429407&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kRiShNa-429407&theme=default"/>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kRiShNa-429407"><img src="https://github-readme-stats.vercel.app/api?username=kRiShNa-429407&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kRiShNa-429407's GitHub stats" /></a>
-
-<a href="http://www.github.com/kRiShNa-429407"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kRiShNa-429407&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
