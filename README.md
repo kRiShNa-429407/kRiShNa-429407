@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kRiShNa-429407&theme=" alt="kRiShNa-429407" /></a> </p>
 
-- 🌱 I’m currently learning Deep Learning framework **PyTorch**
+- 🌱 I’m currently exploring the amazing world of **Artificial Intelligence(AI)**
 - 💬 Ask me about anything related to **Python, Machine Learning and Data Science**
 - 📫 How to reach me **kk429407@gmail.com**
 - 📝 I regularly write articles on Medium **https://medium.com/me/stories/public**
