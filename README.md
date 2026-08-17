@@ -1,49 +1,195 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Krishna Kaushik</h1>
-<h3 align="center">Machine Learning || Deep Learning || Data Science</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kRiShNa-429407&label=Profile%20views&color=0e75b6&style=flat" alt="kRiShNa-429407" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kRiShNa-429407&theme=" alt="kRiShNa-429407" /></a> </p>
-
-- 🌱 I’m currently exploring the amazing world of **Artificial Intelligence(AI)**
-- 💬 Ask me about anything related to **Python, Machine Learning and Data Science**
-- 📫 How to reach me **kk429407@gmail.com**
-- 📝 I regularly write articles on Medium **https://medium.com/me/stories/public**
-
-<div> <a href="https://www.linkedin.com/in/krishna-kaushik-1b1377229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/kRiShNa-429407" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:kk429407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/krishna-kaushik-1b1377229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Krishna Kaushik" height="30" width="40" /></a><a href="https://kaggle.com/krishnaaiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="krishnaaiml" height="30" width="40" /></a><a href="https://medium.com/@kk429407" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@Krishna Kaushik" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRiShNa-429407&layout=compact&theme=tokyonight" alt=kRiShNa-429407 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kRiShNa-429407&show_icons=true&locale=en&theme=cobalt" alt="kRiShNa-429407" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kRiShNa-429407&theme=radical" alt="kRiShNa-429407" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/kRiShNa-429407">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kRiShNa-429407&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kRiShNa-429407&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kRiShNa-429407&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kRiShNa-429407&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kRiShNa-429407&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kRiShNa-429407&theme=default"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Krishna%20Kaushik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+with+Python+%F0%9F%90%8D;Exploring+Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Learning+AI+one+model+at+a+time+%F0%9F%A4%96;Turning+data+into+useful+insights+%F0%9F%93%8A" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/kRiShNa-429407">
+  <img src="https://komarev.com/ghpvc/?username=kRiShNa-429407&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</a>
+<a href="mailto:kk429407@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Connect-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+krishna = {
+    "name": "Krishna Kaushik",
+    "role": "AI / Machine Learning Enthusiast",
+    "languages": ["Python"],
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science"
+    ],
+    "currently_learning": [
+        "PyTorch",
+        "Transformers",
+        "RAG",
+        "LLMs"
+    ],
+    "goal": "Build practical AI systems that solve real-world problems"
+}
+```
+
+- 🔭 Exploring **Artificial Intelligence, Machine Learning and Deep Learning**
+- 🧠 Currently learning **PyTorch, Transformers, RAG and LLM concepts**
+- 📊 Interested in turning raw data into meaningful and useful solutions
+- 💬 Ask me about **Python, Machine Learning, Deep Learning and Data Science**
+- 📝 I share technical learning and ideas on **[Medium](https://medium.com/@kk429407)**
+- 📫 Reach me at **kk429407@gmail.com**
+
+---
+
+## ⚙️ My AI / ML Toolbox
+
+<div align="center">
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux&theme=dark" alt="Core Skills" />
+
+<br/><br/>
+
+### Data & Machine Learning
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+
+<br/><br/>
+
+### Currently Exploring
+
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+
+</div>
+
+---
+
+## 🚀 What I'm Focused On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+Learning how intelligent systems understand, reason and generate useful outputs.
+
+### 🧠 Deep Learning
+Understanding neural networks, backpropagation, optimization and model training.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 RAG & LLMs
+Exploring retrieval pipelines, embeddings, vector databases and large language models.
+
+### 📊 Data Science
+Working with data preprocessing, analysis, visualization and machine learning workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 GitHub Highlights
+
+<div align="center">
+
+<a href="https://github.com/kRiShNa-429407">
+  <img src="https://img.shields.io/badge/GitHub-kRiShNa--429407-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+
+<img src="https://img.shields.io/github/followers/kRiShNa-429407?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub Followers" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<!-- Generated by .github/workflows/profile-cards.yml -->
+<img src="./profile/trophy.svg" width="100%" alt="Krishna Kaushik GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<!-- Generated locally in this repository by GitHub Actions -->
+<img width="49%" src="./profile/stats.svg" alt="Krishna's GitHub Stats" />
+<img width="49%" src="./profile/top-langs.svg" alt="Krishna's Top Languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=kRiShNa-429407&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## ⚡ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kRiShNa-429407&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishna-kaushik-1b1377229/">
+  <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Kaushik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.kaggle.com/krishnaaiml">
+  <img src="https://img.shields.io/badge/Kaggle-krishnaaiml-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="https://medium.com/@kk429407">
+  <img src="https://img.shields.io/badge/Medium-@kk429407-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="mailto:kk429407@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kk429407-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Experiment. Improve."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+
+</div>
