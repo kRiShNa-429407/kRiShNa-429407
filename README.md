@@ -177,7 +177,7 @@ Working with data preprocessing, analysis, visualization and machine learning wo
   <img src="https://img.shields.io/badge/Medium-@kk429407-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 <a href="mailto:kaushik4294cse@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kk429407-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-kaushik4294-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
