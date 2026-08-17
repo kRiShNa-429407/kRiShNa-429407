@@ -9,7 +9,7 @@
 <a href="https://github.com/kRiShNa-429407">
   <img src="https://komarev.com/ghpvc/?username=kRiShNa-429407&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views" />
 </a>
-<a href="mailto:kk429407@gmail.com">
+<a href="mailto:kaushik4294cse@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20Connect-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -45,7 +45,7 @@ krishna = {
 - 📊 Interested in turning raw data into meaningful and useful solutions
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and Data Science**
 - 📝 I share technical learning and ideas on **[Medium](https://medium.com/@kk429407)**
-- 📫 Reach me at **kk429407@gmail.com**
+- 📫 Reach me at **kaushik4294cse@gmail.com**
 
 ---
 
@@ -167,7 +167,7 @@ Working with data preprocessing, analysis, visualization and machine learning wo
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/krishna-kaushik-1b1377229/">
+<a href="https://www.linkedin.com/in/krishna-kaushik-ml/">
   <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Kaushik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.kaggle.com/krishnaaiml">
@@ -176,7 +176,7 @@ Working with data preprocessing, analysis, visualization and machine learning wo
 <a href="https://medium.com/@kk429407">
   <img src="https://img.shields.io/badge/Medium-@kk429407-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="mailto:kk429407@gmail.com">
+<a href="mailto:kaushik4294cse@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-kk429407-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
